@@ -33,4 +33,3 @@
 * image：**章节** 内容中出现的图片存放在这里，命名规则：章节名称_图片名称.jpg
 * figure: 主要tex以及README文件中出现的图片存放于此，命名规则：图片名称.jpg
 * main.tex: tex的主干文件，章节内容将用 include{chapter.tex} 的形式进行编译
-jijij
