@@ -14,7 +14,7 @@
 复制这个项目的GitHub 链接，在自己的终端选择一个合适的文件目录下输入
 
 ```
-    git clone git@github.com:Funyday-k/Physics.git
+git clone git@github.com:Funyday-k/Physics.git
 ```
 
 然后您就可以下载到该项目的源文件了
@@ -33,3 +33,5 @@
 * image：**章节** 内容中出现的图片存放在这里，命名规则：章节名称_图片名称.jpg
 * figure: 主要tex以及README文件中出现的图片存放于此，命名规则：图片名称.jpg
 * main.tex: tex的主干文件，章节内容将用 include{chapter.tex} 的形式进行编译
+
+我们尽量规范的编辑该文档，方便你我他。
