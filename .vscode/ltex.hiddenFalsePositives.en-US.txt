@@ -1,0 +1,1 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q首先，这是一个简单的 \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q 文档，并且基于Overleaf上一个模板进行写作，因此您需要具备基本的 \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q 写作能力\\E$"}

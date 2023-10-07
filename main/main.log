@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.7.27)  7 OCT 2023 15:55
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.7.27)  7 OCT 2023 16:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/xialingyu/Documents/Physics/ElegantBook Template/elegantbook-cn"
-(/Users/xialingyu/Documents/Physics/ElegantBook Template/elegantbook-cn.tex
+**/Users/xialingyu/Documents/Physics/main/main
+(/Users/xialingyu/Documents/Physics/main/main.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (./elegantbook.cls
 Document Class: elegantbook 2022/04/09 v4.3 ElegantBook document class
@@ -1261,8 +1261,8 @@ LaTeX Font Info:    Font shape `TU/texgyretermes(0)/b/n' will be
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
- (./elegantbook-cn.aux (./chapter/introduction.aux) (./chapter/textbook.aux) (./chapter/research.aux) (./chapter/recipe.aux))
-\openout1 = `elegantbook-cn.aux'.
+ (./main.aux (./chapter/introduction.aux) (./chapter/textbook.aux) (./chapter/research.aux) (./chapter/recipe.aux))
+\openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
@@ -1297,9 +1297,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 26.
 LaTeX Info: Redefining \pageref on input line 26.
 LaTeX Info: Redefining \nameref on input line 26.
- (./elegantbook-cn.out) (./elegantbook-cn.out)
+ (./main.out) (./main.out)
 \@outlinefile=\write7
-\openout7 = `elegantbook-cn.out'.
+\openout7 = `main.out'.
 
 
 *geometry* driver: auto-detecting
@@ -1360,12 +1360,12 @@ Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout5 = `elegantbook-cn.bcf'.
+\openout5 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'elegantbook-cn.bbl' not found.
+Package biblatex Info: ... file 'main.bbl' not found.
 
-No file elegantbook-cn.bbl.
+No file main.bbl.
 Package biblatex Info: Reference section=0 on input line 26.
 Package biblatex Info: Reference segment=0 on input line 26.
 \c@lstlisting=\count557
@@ -1429,13 +1429,13 @@ File: ./figure//logo-blue.png Graphic file (type bmp)
 ]
 LaTeX Font Info:    Font shape `TU/texgyretermes(0)/b/n' will be
 (Font)              scaled to size 17.28pt on input line 31.
- (./elegantbook-cn.toc [1
+ (./main.toc [1
 
 
 
 ])
 \tf@toc=\write8
-\openout8 = `elegantbook-cn.toc'.
+\openout8 = `main.toc'.
 
 LaTeX Font Info:    Font shape `TU/texgyretermes(0)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 33.
@@ -1547,28 +1547,28 @@ LaTeX Warning: Empty bibliography on input line 678.
 附录 A.
 ) [20
 
-] (./elegantbook-cn.aux (./chapter/introduction.aux) (./chapter/textbook.aux) (./chapter/research.aux) (./chapter/recipe.aux))
+] (./main.aux (./chapter/introduction.aux) (./chapter/textbook.aux) (./chapter/research.aux) (./chapter/recipe.aux))
 
 LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `elegantbook-cn.out' has not changed.
+Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 0ECB1904678DE35805F3BDC0003B261E;5272.
 
 Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                elegantbook-cn
+(biblatex)                main
 (biblatex)                and rerun LaTeX afterwards.
 
-Package logreq Info: Writing requests to 'elegantbook-cn.run.xml'.
-\openout1 = `elegantbook-cn.run.xml'.
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
  47669 strings out of 476179
- 1017926 string characters out of 5809544
- 1970860 words of memory out of 5000000
+ 1017628 string characters out of 5809544
+ 1970810 words of memory out of 5000000
  67553 multiletter control sequences out of 15000+600000
  478874 words of font info for 129 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 103i,18n,107p,801b,2199s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 103i,18n,107p,773b,2199s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on elegantbook-cn.pdf (23 pages).
+Output written on main.pdf (23 pages).
