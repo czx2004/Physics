@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.7.27)  7 OCT 2023 16:20
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.7.27)  7 OCT 2023 17:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1420,8 +1420,8 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `TU/texgyretermes(0)/b/n' will be
 (Font)              scaled to size 14.4pt on input line 28.
-File: ./figure//logo-blue.png Graphic file (type bmp)
-<./figure//logo-blue.png>
+File: ./figure//logo.png Graphic file (type bmp)
+<./figure//logo.png>
  [1
 
 
@@ -1563,9 +1563,9 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 47669 strings out of 476179
- 1017628 string characters out of 5809544
- 1970810 words of memory out of 5000000
+ 47668 strings out of 476179
+ 1017579 string characters out of 5809544
+ 1970805 words of memory out of 5000000
  67553 multiletter control sequences out of 15000+600000
  478874 words of font info for 129 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
