@@ -3,8 +3,10 @@
 \contentsline {section}{\numberline {2.1}数学部分}{2}{section.2.1}%
 \contentsline {section}{\numberline {2.2}物理部分}{2}{section.2.2}%
 \contentsline {chapter}{\numberline {3}科创指南}{6}{chapter.3}%
-\contentsline {section}{\numberline {3.1}科研方向选择}{6}{section.3.1}%
-\contentsline {section}{\numberline {3.2}科研项目推荐}{6}{section.3.2}%
+\contentsline {section}{\numberline {3.1}科研方向选择指南}{6}{section.3.1}%
+\contentsline {section}{\numberline {3.2}科研项目\& 导师推荐}{6}{section.3.2}%
+\contentsline {section}{\numberline {3.3}校外科研项目\& 暑研}{6}{section.3.3}%
+\contentsline {section}{\numberline {3.4}冬季\& 暑期学校}{6}{section.3.4}%
 \contentsline {chapter}{\numberline {4}留学指南}{7}{chapter.4}%
 \contentsline {section}{\numberline {4.1}介绍}{7}{section.4.1}%
 \contentsline {section}{\numberline {4.2}语言学习和考试}{7}{section.4.2}%
