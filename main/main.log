@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.7.27)  12 OCT 2023 16:08
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.7.27)  12 OCT 2023 16:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1363,9 +1363,8 @@ Package biblatex Info: Automatic encoding selection.
 \openout5 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' not found.
-
-No file main.bbl.
+Package biblatex Info: ... file 'main.bbl' found.
+ (./main.bbl)
 Package biblatex Info: Reference section=0 on input line 26.
 Package biblatex Info: Reference segment=0 on input line 26.
 \c@lstlisting=\count557
@@ -1407,7 +1406,7 @@ File: ./figure//cover.jpg Graphic file (type bmp)
 LaTeX Font Info:    Font shape `TU/texgyretermes(0)/b/n' will be
 (Font)              scaled to size 24.88pt on input line 28.
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 28.
-(/usr/local/texlive/2022/texmf-dist/tex/latex/jknapltx/ursfs.fd
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Trying to load font information for U+msa on input line 28.
@@ -1493,9 +1492,9 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 45081 strings out of 476179
- 966313 string characters out of 5809544
- 1871357 words of memory out of 5000000
+ 45083 strings out of 476179
+ 966331 string characters out of 5809544
+ 1871354 words of memory out of 5000000
  65030 multiletter control sequences out of 15000+600000
  474657 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
